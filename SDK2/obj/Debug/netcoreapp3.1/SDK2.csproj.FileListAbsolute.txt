@@ -163,3 +163,6 @@ C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp3.1\runtimes\u
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp3.1\SDK2.csproj.CopyComplete
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\ChakraCore.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\ChakraCore.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp3.1\runtimes\win8-arm\native\ChakraCore.dll
