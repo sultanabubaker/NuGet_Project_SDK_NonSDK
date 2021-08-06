@@ -499,6 +499,32 @@
           "lib/netcoreapp2.1/Microsoft.Bcl.HashCode.dll": {}
         }
       },
+      "Microsoft.ChakraCore/1.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "build": {
+          "build/netstandard1.0/Microsoft.ChakraCore.props": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win7-x64/native/ChakraCore.dll": {
+            "assetType": "native",
+            "rid": "win7-x64"
+          },
+          "runtimes/win7-x86/native/ChakraCore.dll": {
+            "assetType": "native",
+            "rid": "win7-x86"
+          },
+          "runtimes/win8-arm/native/ChakraCore.dll": {
+            "assetType": "native",
+            "rid": "win8-arm"
+          }
+        }
+      },
       "Microsoft.CodeAnalysis.Analyzers/2.9.4": {
         "type": "package",
         "build": {
@@ -4144,6 +4170,22 @@
         "ref/netstandard2.1/Microsoft.Bcl.HashCode.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "Microsoft.ChakraCore/1.8.1": {
+      "sha512": "Pcr6haB/U0CulCxzRFIwGLpNXLfzO05btrFnh2CVlnfQU2XC6uAINI7RMS3BQT+HhmZnnUeCvecyOk6TlageYA==",
+      "type": "package",
+      "path": "microsoft.chakracore/1.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/netstandard1.0/Microsoft.ChakraCore.props",
+        "lib/netstandard1.0/_._",
+        "microsoft.chakracore.1.8.1.nupkg.sha512",
+        "microsoft.chakracore.nuspec",
+        "runtimes/win7-x64/native/ChakraCore.dll",
+        "runtimes/win7-x86/native/ChakraCore.dll",
+        "runtimes/win8-arm/native/ChakraCore.dll"
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/2.9.4": {
@@ -11560,6 +11602,7 @@
       "FluentValidation.AspNetCore >= 9.2.0",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.6",
       "Microsoft.AspNetCore.SpaServices.Extensions >= 3.1.6",
+      "Microsoft.ChakraCore >= 1.8.1",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.4",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.6",
@@ -11623,6 +11666,12 @@
           "Microsoft.AspNetCore.SpaServices.Extensions": {
             "target": "Package",
             "version": "[3.1.6, )"
+          },
+          "Microsoft.ChakraCore": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.8.1, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
