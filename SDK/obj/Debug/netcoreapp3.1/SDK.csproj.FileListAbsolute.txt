@@ -11,5 +11,13 @@ C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.csproj.
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.dll
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.pdb
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.genruntimeconfig.cache
-C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.csproj.CopyComplete
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
