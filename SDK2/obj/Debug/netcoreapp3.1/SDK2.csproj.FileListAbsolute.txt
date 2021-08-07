@@ -11,3 +11,7 @@ C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp3.1\SDK2.cspro
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp3.1\SDK2.dll
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp3.1\SDK2.pdb
 C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp3.1\SDK2.genruntimeconfig.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\ChakraCore.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\ChakraCore.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp3.1\runtimes\win8-arm\native\ChakraCore.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp3.1\SDK2.csproj.CopyComplete
