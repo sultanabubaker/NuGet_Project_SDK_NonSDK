@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "Wv1NGO2FnAKQqJaYwC5w1J6TAUlj/CGEP1+SqGNfJ5aoL1f6ymP7rbTL8y07Kc13nxbxpTk2bxNtFIaHynTOpQ==",
+  "dgSpecHash": "NqwczVii1jjpFIa/cc3SYGgC7iaqgnA9uCu0+9m68Mdigr6BdWlaxQ+QQ0V0WnZr+lqbiIhDdKZ0HEqy5PwtVQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\SultanAbuBaker\\source\\repos\\SDK\\SDK\\SDK.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\newtonsoft.json\\7.0.1\\newtonsoft.json.7.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 7.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
