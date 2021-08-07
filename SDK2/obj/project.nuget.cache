@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QbzCtbaA8CYuAX7ktAW9vfSK55dan6GHAoW4smhPLgYR73iss0ZLXl9Oah/AOURVx/qgS8wD0M8XkP0aN5vKJQ==",
+  "dgSpecHash": "iUi5ggCEi9XvIiLS2jrnqeT7n7vMpaAuhKBUdTkS6pYAwljZQ/Q6d1ve0vcya1TlBfhxZhF0PWZFD2Cb4rwNwg==",
   "success": true,
   "projectFilePath": "C:\\Users\\SultanAbuBaker\\source\\repos\\SDK\\SDK2\\SDK2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\microsoft.chakracore\\1.8.1\\microsoft.chakracore.1.8.1.nupkg.sha512"
+  ],
   "logs": []
 }

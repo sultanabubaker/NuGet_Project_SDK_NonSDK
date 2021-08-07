@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "R6n2TNTtCGizp3auCu8J2WhgltHGIVY/JvcPQrv/QZe91bQNYIcALhD/MBppeu/ohOGhWNHqKyr00XskPhhwsw==",
+  "dgSpecHash": "Kc99urScfeGNpkjO4Ek6KQfoeRiNWU7Y9KKdZyeDiqBBh/yvg1mBNA/scXHSUYwXpUjZeRD7sMC4iGmPZYf6JQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\SultanAbuBaker\\source\\repos\\SDK\\SDK\\SDK.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\nswag.msbuild\\13.7.0\\nswag.msbuild.13.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
