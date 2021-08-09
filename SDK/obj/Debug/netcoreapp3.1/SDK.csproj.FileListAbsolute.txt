@@ -1,0 +1,17 @@
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\SDK.exe
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\SDK.deps.json
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\SDK.runtimeconfig.json
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\SDK.runtimeconfig.dev.json
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\SDK.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\SDK.pdb
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\ChakraCore.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\ChakraCore.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\runtimes\win8-arm\native\ChakraCore.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.csproj.AssemblyReference.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.AssemblyInfoInputs.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.AssemblyInfo.cs
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.csproj.CoreCompileInputs.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.csproj.CopyComplete
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.pdb
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.genruntimeconfig.cache

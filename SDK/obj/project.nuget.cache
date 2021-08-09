@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RD+iNCe8ul3oxGpj6tqf8P04KjmBh5Px3Dz7HMWLQ22AMlPcL0LGhhyUoslxWAjhy3D2cqMUpgfbLVpSt422jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SultanAbuBaker\\source\\repos\\SDK\\SDK\\SDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\microsoft.chakracore\\1.8.1\\microsoft.chakracore.1.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
