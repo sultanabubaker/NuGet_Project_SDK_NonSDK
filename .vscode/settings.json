@@ -1,4 +1,4 @@
 {
-    "WhiteSource Advise.BaseBranch": "master",
+    "WhiteSource Advise.BaseBranch": "test-1",
     "WhiteSource Advise.includeDevDependencies": true
 }
