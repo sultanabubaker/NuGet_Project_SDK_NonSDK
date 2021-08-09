@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8kVO0J8XI3AZgD+sqEmnFNGBA00/Q0HuizBzYFyp1PMRJ6nk51SH/4hytMp2qK4DQk8FL302B0jVR2b6Qew2CQ==",
+  "dgSpecHash": "BcehHxpH7ACvxR9bVmt55lcIhSygjPfZ0WC7HymPVqCv1WSdSkloseZ0qrj60QbgQu5Zw6sXF6B6ObKSUkyZsA==",
   "success": true,
   "projectFilePath": "C:\\Users\\SultanAbuBaker\\source\\repos\\SDK\\SDK\\SDK.csproj",
   "expectedPackageFiles": [
@@ -117,10 +117,10 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Nancy 1.4.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'Nancy 1.4.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
       "libraryId": "Nancy",
       "targetGraphs": [
-        "net5.0"
+        ".NETCoreApp,Version=v3.1"
       ]
     }
   ]
