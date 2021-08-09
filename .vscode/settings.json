@@ -1,4 +1,4 @@
 {
-    "WhiteSource Advise.BaseBranch": "master",
-    "WhiteSource Advise.includeDevDependencies": true
+    "WhiteSource Advise.includeDevDependencies": true,
+    "WhiteSource Advise.enableAutomaticScanningInWorkspace": false
 }
