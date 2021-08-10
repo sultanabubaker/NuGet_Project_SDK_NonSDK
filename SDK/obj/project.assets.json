@@ -2,6 +2,32 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Microsoft.ChakraCore/1.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "build": {
+          "build/netstandard1.0/Microsoft.ChakraCore.props": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win7-x64/native/ChakraCore.dll": {
+            "assetType": "native",
+            "rid": "win7-x64"
+          },
+          "runtimes/win7-x86/native/ChakraCore.dll": {
+            "assetType": "native",
+            "rid": "win7-x86"
+          },
+          "runtimes/win8-arm/native/ChakraCore.dll": {
+            "assetType": "native",
+            "rid": "win8-arm"
+          }
+        }
+      },
       "NSwag.MSBuild/13.7.0": {
         "type": "package",
         "build": {
@@ -14,6 +40,22 @@
     }
   },
   "libraries": {
+    "Microsoft.ChakraCore/1.8.1": {
+      "sha512": "Pcr6haB/U0CulCxzRFIwGLpNXLfzO05btrFnh2CVlnfQU2XC6uAINI7RMS3BQT+HhmZnnUeCvecyOk6TlageYA==",
+      "type": "package",
+      "path": "microsoft.chakracore/1.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/netstandard1.0/Microsoft.ChakraCore.props",
+        "lib/netstandard1.0/_._",
+        "microsoft.chakracore.1.8.1.nupkg.sha512",
+        "microsoft.chakracore.nuspec",
+        "runtimes/win7-x64/native/ChakraCore.dll",
+        "runtimes/win7-x86/native/ChakraCore.dll",
+        "runtimes/win8-arm/native/ChakraCore.dll"
+      ]
+    },
     "NSwag.MSBuild/13.7.0": {
       "sha512": "X37HPT9ooe3f43fzSKefD6+1vn7dj/ginPQbMbsch5eA5I0UgpqBNq9kOGdoUuATmw9j3AyCIHkwY24qGyAj7Q==",
       "type": "package",
@@ -832,6 +874,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Microsoft.ChakraCore >= 1.8.1",
       "NSwag.MSBuild >= 13.7.0"
     ]
   },
@@ -874,6 +917,12 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "Microsoft.ChakraCore": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.8.1, )"
+          },
           "NSwag.MSBuild": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

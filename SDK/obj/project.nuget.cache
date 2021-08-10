@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Kc99urScfeGNpkjO4Ek6KQfoeRiNWU7Y9KKdZyeDiqBBh/yvg1mBNA/scXHSUYwXpUjZeRD7sMC4iGmPZYf6JQ==",
+  "dgSpecHash": "dl7ZS1Fq2xGixy4AEWBOMLRt0Zvs5dsKOWLbnXNES72PZkLq9wN3EKU5GPAKtxAr93VTNz/2hgWo8ZE14nfq5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\SultanAbuBaker\\source\\repos\\SDK\\SDK\\SDK.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\microsoft.chakracore\\1.8.1\\microsoft.chakracore.1.8.1.nupkg.sha512",
     "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\nswag.msbuild\\13.7.0\\nswag.msbuild.13.7.0.nupkg.sha512"
   ],
   "logs": []
