@@ -1,0 +1,12 @@
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp2.2\SDK2.deps.json
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp2.2\SDK2.runtimeconfig.json
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp2.2\SDK2.runtimeconfig.dev.json
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp2.2\SDK2.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\netcoreapp2.2\SDK2.pdb
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp2.2\SDK2.csproj.AssemblyReference.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp2.2\SDK2.AssemblyInfoInputs.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp2.2\SDK2.AssemblyInfo.cs
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp2.2\SDK2.csproj.CoreCompileInputs.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp2.2\SDK2.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp2.2\SDK2.pdb
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\netcoreapp2.2\SDK2.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\net45\SDK2.exe.config
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\net45\SDK2.exe
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\net45\SDK2.pdb
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\bin\Debug\net45\ChakraCore.dll
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\net45\SDK2.csproj.AssemblyReference.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\net45\SDK2.AssemblyInfoInputs.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\net45\SDK2.AssemblyInfo.cs
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\net45\SDK2.csproj.CoreCompileInputs.cache
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\net45\SDK2.csproj.CopyComplete
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\net45\SDK2.exe
+C:\Users\SultanAbuBaker\source\repos\SDK\SDK2\obj\Debug\net45\SDK2.pdb

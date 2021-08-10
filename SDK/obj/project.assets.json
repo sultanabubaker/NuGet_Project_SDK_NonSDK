@@ -37,6 +37,95 @@
           "buildCrossTargeting/NSwag.MSBuild.props": {}
         }
       }
+    },
+    ".NETCoreApp,Version=v3.1/win7-x86": {
+      "Microsoft.ChakraCore/1.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "native": {
+          "runtimes/win7-x86/native/ChakraCore.dll": {}
+        },
+        "build": {
+          "build/netstandard1.0/Microsoft.ChakraCore.props": {}
+        }
+      },
+      "NSwag.MSBuild/13.7.0": {
+        "type": "package",
+        "build": {
+          "build/NSwag.MSBuild.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildCrossTargeting/NSwag.MSBuild.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5": {
+      "Microsoft.ChakraCore/1.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "build": {
+          "build/netstandard1.0/Microsoft.ChakraCore.props": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win7-x64/native/ChakraCore.dll": {
+            "assetType": "native",
+            "rid": "win7-x64"
+          },
+          "runtimes/win7-x86/native/ChakraCore.dll": {
+            "assetType": "native",
+            "rid": "win7-x86"
+          },
+          "runtimes/win8-arm/native/ChakraCore.dll": {
+            "assetType": "native",
+            "rid": "win8-arm"
+          }
+        }
+      },
+      "NSwag.MSBuild/13.7.0": {
+        "type": "package",
+        "build": {
+          "build/NSwag.MSBuild.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildCrossTargeting/NSwag.MSBuild.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win7-x86": {
+      "Microsoft.ChakraCore/1.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "native": {
+          "runtimes/win7-x86/native/ChakraCore.dll": {}
+        },
+        "build": {
+          "build/netstandard1.0/Microsoft.ChakraCore.props": {}
+        }
+      },
+      "NSwag.MSBuild/13.7.0": {
+        "type": "package",
+        "build": {
+          "build/NSwag.MSBuild.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildCrossTargeting/NSwag.MSBuild.props": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -876,6 +965,10 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.ChakraCore >= 1.8.1",
       "NSwag.MSBuild >= 13.7.0"
+    ],
+    ".NETFramework,Version=v4.5": [
+      "Microsoft.ChakraCore >= 1.8.1",
+      "NSwag.MSBuild >= 13.7.0"
     ]
   },
   "packageFolders": {
@@ -890,11 +983,13 @@
       "packagesPath": "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SultanAbuBaker\\source\\repos\\SDK\\SDK\\obj\\",
       "projectStyle": "PackageReference",
+      "crossTargeting": true,
       "configFilePaths": [
         "C:\\Users\\SultanAbuBaker\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
+        "net45",
         "netcoreapp3.1"
       ],
       "sources": {
@@ -904,6 +999,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        },
+        "net45": {
+          "targetAlias": "net45",
           "projectReferences": {}
         }
       },
@@ -946,6 +1045,29 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      },
+      "net45": {
+        "targetAlias": "net45",
+        "dependencies": {
+          "Microsoft.ChakraCore": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.8.1, )"
+          },
+          "NSwag.MSBuild": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[13.7.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }
