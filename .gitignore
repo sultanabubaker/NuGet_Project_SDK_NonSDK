@@ -1,1 +1,8 @@
-.vscode/diff
+# Visual Studio 2019
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
