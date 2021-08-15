@@ -19,7 +19,6 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net45",
           "netcoreapp3.1"
         ],
         "sources": {
@@ -29,10 +28,6 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
-          },
-          "net45": {
-            "targetAlias": "net45",
             "projectReferences": {}
           }
         },
@@ -75,29 +70,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
-        },
-        "net45": {
-          "targetAlias": "net45",
-          "dependencies": {
-            "Microsoft.ChakraCore": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.8.1, )"
-            },
-            "NSwag.MSBuild": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[13.7.0, )"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
         }
       }
     }
