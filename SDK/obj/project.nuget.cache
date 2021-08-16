@@ -1,10 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "oVl/wNryv5/hhtQe0qjKrt7i9xZRFRfOESBZGpuf4LzIfTVdazyp+/IoFxd1WDjOXr9aCieL/aW0A3kk0KmyqQ==",
+  "dgSpecHash": "XgIPEAjDg5MlL9HHozLRQHat0e9ftPxd8SfxpZIyuqJ1dj6bToHNbZlp1f0LThItjfboVz0HpdSZRT/rKFySgw==",
   "success": true,
   "projectFilePath": "C:\\Users\\SultanAbuBaker\\source\\repos\\SDK\\SDK\\SDK.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\microsoft.chakracore\\1.8.1\\microsoft.chakracore.1.8.1.nupkg.sha512"
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\microsoft.chakracore\\1.8.1\\microsoft.chakracore.1.8.1.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.reflection.primitives\\4.0.1\\system.reflection.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.resources.resourcemanager\\4.0.1\\system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.text.encodings.web\\4.0.0\\system.text.encodings.web.4.0.0.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512"
   ],
   "logs": []
 }

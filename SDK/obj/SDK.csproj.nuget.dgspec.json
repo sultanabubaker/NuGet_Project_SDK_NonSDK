@@ -45,6 +45,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[1.8.1, )"
+            },
+            "System.Text.Encodings.Web": {
+              "target": "Package",
+              "version": "[4.0.0, )"
             }
           },
           "imports": [
